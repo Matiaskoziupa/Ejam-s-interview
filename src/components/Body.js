@@ -18,7 +18,7 @@ function Body() {
         </section>
         <section className="py-2">
           <div className="grid grid-cols-3 gap-x-3 gap-y-3">
-            <img className="col-span- lg:row-span-2 lg:w-40 xl:w-52 py-2 bg-blue-600 rounded-xl" src='/images/main-image.webp' width={100} height={100} alt="Clarifion" />
+            <img className="col-span- lg:row-span-2 lg:w-40 xl:w-52 py-2 bg-blue-600 rounded-xl" src='/images/main-image.png' width={100} height={100} alt="Clarifion" />
             <div className="col-span-2 py-2 lg:py-0 lg:gap-2 xl:gap-3 flex flex-col items-start justify-between">
               <div className="w-full flex justify-between items-center lg:text-2xl xlg:font-medium">
                 <div className="-tracking-wide">Clarifion Air lonizer</div>
